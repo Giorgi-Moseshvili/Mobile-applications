@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="name">Name</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="social_login">social Login</string>
+    <string name="facebook">facebook</string>
+    <string name="google">Google</string>
+</resources>
